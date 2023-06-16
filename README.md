@@ -1,4 +1,4 @@
-# Set - Higo Frontend Engineer Test
+# Engineer Test
 
 Engineers at Higo are expected to plan, execute, and deliver new features as well as maintain our existing applications. The objective of this test is to evaluate how you do the same in a small and fun way.
 
